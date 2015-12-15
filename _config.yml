@@ -1,0 +1,28 @@
+name: 'Mobile Therapy '
+favicon: null
+layout_spectrum: 0.8398726915474981
+typography_spectrum: 0.9393870846834034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.46699526091106236
+  lightness: 0.6659368984401226
+  saturation: 0.5607797438278794
+  rhythmicContrast: 0.2410760463681072
+purpose: []
