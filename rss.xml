@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mobile Therapy ]]></title>
         <description><![CDATA[Mobile Therapy ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mobile-therapy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 13:57:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 14:04:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mobile-therapy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Trigger point therapies]]></title>
-            <description><![CDATA[<article><h1>Trigger point therapies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4113eb0fead13be3fbd653dc62ebe70b6138f19.jpg"></article>]]></description>
-            <link>undefinedf358715e-26ab-47b2-92d8-e1aaf3d09e92/index.html</link>
+            <title><![CDATA[Trigger point therapeautics]]></title>
+            <description><![CDATA[<article><h1>Trigger point therapeautics</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4113eb0fead13be3fbd653dc62ebe70b6138f19.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mobile-therapy/f358715e-26ab-47b2-92d8-e1aaf3d09e92/index.html</link>
             <guid isPermaLink="false">f358715e-26ab-47b2-92d8-e1aaf3d09e92</guid>
-            <pubDate>Tue, 22 Dec 2015 13:57:30 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 14:04:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
